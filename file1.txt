@@ -1,3 +1,2 @@
 This is my first Git file.
 Added new line to file1.
-Temporary change to unstage.
